@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RoadMapTrackerUI/static/css/main.34de6062.chunk.css",
+    "main.js": "/RoadMapTrackerUI/static/js/main.76b9356e.chunk.js",
+    "main.js.map": "/RoadMapTrackerUI/static/js/main.76b9356e.chunk.js.map",
+    "runtime-main.js": "/RoadMapTrackerUI/static/js/runtime-main.7ea976df.js",
+    "runtime-main.js.map": "/RoadMapTrackerUI/static/js/runtime-main.7ea976df.js.map",
+    "static/css/2.11f871ab.chunk.css": "/RoadMapTrackerUI/static/css/2.11f871ab.chunk.css",
+    "static/js/2.d8a2a8c6.chunk.js": "/RoadMapTrackerUI/static/js/2.d8a2a8c6.chunk.js",
+    "static/js/2.d8a2a8c6.chunk.js.map": "/RoadMapTrackerUI/static/js/2.d8a2a8c6.chunk.js.map",
+    "index.html": "/RoadMapTrackerUI/index.html",
+    "precache-manifest.ef6830a818ab89b70650739fa00789dc.js": "/RoadMapTrackerUI/precache-manifest.ef6830a818ab89b70650739fa00789dc.js",
+    "service-worker.js": "/RoadMapTrackerUI/service-worker.js",
+    "static/css/2.11f871ab.chunk.css.map": "/RoadMapTrackerUI/static/css/2.11f871ab.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/RoadMapTrackerUI/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ea976df.js",
+    "static/css/2.11f871ab.chunk.css",
+    "static/js/2.d8a2a8c6.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.76b9356e.chunk.js"
+  ]
+}
