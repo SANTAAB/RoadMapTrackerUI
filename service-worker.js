@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RoadMapTrackerUI/precache-manifest.ef6830a818ab89b70650739fa00789dc.js"
+  "/RoadMapTrackerUI/precache-manifest.b84d0177ded8a7dd7cfa490cb929e30f.js"
 );
 
 self.addEventListener('message', (event) => {
